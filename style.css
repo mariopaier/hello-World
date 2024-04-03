@@ -6,3 +6,10 @@ body{
 .titulo-secundario{ 
     color: orange;
 }
+.imagem{
+    width: 50%;
+}
+.linha {
+    border-bottom: 5px solid white;
+    border-top: 5px solid white;
+  }
